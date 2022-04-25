@@ -10,5 +10,5 @@ package manejoclases;
  * @author reroes
  */
 public class Hospital {
-    
+    String nombre;
 }
